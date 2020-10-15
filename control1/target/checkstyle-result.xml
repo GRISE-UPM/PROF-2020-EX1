@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/oscar1/Desktop/UNIVERSIDAD/M 1er Semestre/Profundización en Ingeniería de Software/workspace/control1/src/main/java/es/fi/upm/oscar/control1/App.java">
+<error line="1" severity="error" message="Falta el archivo package-info.java." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+<error line="14" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="14" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="15" column="1" severity="error" message="&apos;{&apos; en la columna 1 debería estar en la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="16" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="16" column="28" severity="error" message="&apos;(&apos; está seguido de espacios en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="16" column="30" severity="error" message="El parámetro args debería ser final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
+<error line="16" column="44" severity="error" message="&apos;)&apos; está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="17" column="5" severity="error" message="&apos;{&apos; en la columna 5 debería estar en la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="18" column="27" severity="error" message="&apos;(&apos; está seguido de espacios en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="18" column="44" severity="error" message="&apos;)&apos; está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="19" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="22" column="49" severity="error" message="&apos;(&apos; está seguido de espacios en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="22" column="77" severity="error" message="&apos;)&apos; está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="24" severity="error" message="La línea es mayor de 80 caracteres (encontrado 96)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="24" column="27" severity="error" message="&apos;(&apos; está seguido de espacios en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="24" column="95" severity="error" message="&apos;)&apos; está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+</file>
+</checkstyle>
