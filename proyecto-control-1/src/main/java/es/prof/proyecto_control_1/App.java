@@ -7,11 +7,6 @@ import org.apache.commons.io.IOUtils;
 import org.kohsuke.github.GHRepository;
 import org.kohsuke.github.GitHub;
 
-
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args ) throws IOException
