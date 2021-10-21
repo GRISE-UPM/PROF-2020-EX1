@@ -1,4 +1,4 @@
-package proyecto-control-1;
+package proyecto.control;
 
 /**
  * Hello world!
